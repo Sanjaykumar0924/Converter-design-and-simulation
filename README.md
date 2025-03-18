@@ -1,4 +1,4 @@
-# Converter-design-and-simulation
+# Converter-design-and-simulation.
 
 # Aim
 To design and simulate AC to DC converter & DC voltage regulator using proteus.
